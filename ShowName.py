@@ -1,5 +1,5 @@
 print("Enter your name: ")
-name = input()  
+name = input("hi there!!!")
 print("Hello, " + name + "!")
 print("1234")
 
